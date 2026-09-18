@@ -1,0 +1,9 @@
+,Raw (Before),Engineered (After)
+n_rows,179568.0,179568.0
+n_features,45.0,62.0
+missing_total,0.0,0.0
+missing_pct,0.0,0.0
+memory_MB,72.56,96.26
+mean_skew,0.3206,0.3206
+mean_kurtosis,2.1573,2.1573
+n_features_added,,17.0

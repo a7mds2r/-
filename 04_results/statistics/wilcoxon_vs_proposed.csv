@@ -1,0 +1,6 @@
+Comparison,Wilcoxon_stat,p_value,significant,A12,CliffsDelta
+CL-NSGA-II (Proposed) vs Proposed w/o novelty (ablation),62.0,0.11399,False,0.365,-0.27
+CL-NSGA-II (Proposed) vs NSGA-II,62.0,0.11399,False,0.365,-0.27
+CL-NSGA-II (Proposed) vs MOPSO,0.0,0.0,True,0.685,0.37
+CL-NSGA-II (Proposed) vs MODE,0.0,0.0,True,0.685,0.37
+CL-NSGA-II (Proposed) vs MOGWO,26.0,0.00199,True,0.653,0.305
